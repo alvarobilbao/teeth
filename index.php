@@ -7,6 +7,7 @@
     <body>
         <?php
         echo "this is a test Alvaro";
+		echo "this is a test Stefano";
         ?>
     </body>
 </html>
